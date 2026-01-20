@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Compiled output and build artifacts
+/dist
+/build
+*.o
+*.pyc
+*.class
+
+# Log and temporary files
+logs/
+*.log
+*.tmp
+temp/
+
+# OS and IDE specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
